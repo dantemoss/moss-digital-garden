@@ -25,7 +25,7 @@ Mi cerebro funciona con dopamina de videojuegos. Si no hay un trofeo, no hay mot
 | **Owned Machines** |       2       |        50+        |
 | **Ranking**        |   +100.000   |      < 1.000      |
 | **Biohacking**     | On-Fungi v1.0 | Cerebro Optimizado |
-
+![[Pasted image 20251216160249.png]]
 ## 🧪 El "Stack" Biológico
 
 No se puede correr un Fórmula 1 con nafta común. Para aguantar el ritmo de aprendizaje sin quemarme (*burnout*), estoy implementando un protocolo de **Biohacking**:
