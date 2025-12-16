@@ -1,3 +1,15 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+h1, h2, h3, h4, h5, h6, .page-title {
+    font-style: italic !important;
+    /* Opcional: Si querés que se vean un poco más gruesos y dramáticos, descomentá la línea de abajo */
+    font-weight: 400 !important;
+    opacity: 0.9;
+  }
+  
+  /* Bonus Track: Un pequeño ajuste para que los títulos de los artículos no queden tan pegados arriba en Playfair */
+  .article-title {
+      margin-top: 0.5rem;
+      
+  }
