@@ -1,7 +1,19 @@
-### La maquina de la muerte!
+---
+title: "Machine: Dancing"
+date: 2025-12-16
+tags: [htb, windows, smb, easy, starting-point]
+---
+> [!info] Intel
+>
+> * **IP:** 10.129.x.x (Completar al iniciar)
+> * **OS:** Windows
+> * **Difficulty:** Very Easy
+> * **Goal:** Aprender a interactuar con el protocolo SMB (Server Message Block).
 
-En esta ocasion vamos a ver el desarrollo de la solucion de la maquina "DANCING" de HTB. 
+## 1. Reconnaissance 🕵️‍♂️
 
-Es parte del ***"Starting Point Tier 0"*** que busca ayudarnos a entender protocolos comunmente usados en nuestra discliplina. 
+Primer contacto con el objetivo. Buscamos puertos abiertos.
 
-Particularmente **"SMB"**
+```bash
+nmap -p- --min-rate 5000 10.129.x.x
+```
