@@ -1,6 +1,6 @@
 ---
 title: "Manual de Supervivencia: El Sistema de Rangos de HTB"
-date: 2025-12-16
+date: 2025-12-15
 tags: [htb, guide, strategy, rank]
 ---
 > [!quote] La Verdad de la Milanesa
